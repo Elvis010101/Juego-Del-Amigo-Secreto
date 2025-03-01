@@ -42,4 +42,14 @@ function sortearAmigo() {
 
     const resultado = document.getElementById('resultado');  // Obtenemos el elemento donde se mostrará el resultado
     resultado.innerHTML = `El amigo secreto sorteado es: <strong>${amigoSorteado}</strong>`;  // Mostramos el nombre sorteado
+
+    amigos.length = 0;  // Vaciar el arreglo de amigos para comenzar de nuevo
+
+    // También puedes limpiar la lista HTML, si lo deseas
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = '';  // Limpiar la lista visual de amigos
+
+    // Si quieres permitir que el usuario agregue nuevos amigos, puedes limpiar el campo de entrada
+    const nombreInput = document.getElementById('amigo');
+    nombreInput.value = '';  // Limpiar el campo de entrada
 }
