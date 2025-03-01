@@ -17,3 +17,4 @@ Es un juego de azar en el cual los usuarios ingresan diversos nombres para decid
 -Obtener el nombre sorteado
 -Mostrar el resultado
 -Limpia luego de un sorteo
+<!-- Failed to upload "Grabación 2025-02-28 221628.mp4" -->
