@@ -23,9 +23,9 @@ function agregarAmigo() {
     lista.innerHTML = '';  // Limpiamos la lista antes de mostrarla nuevamente
 
     // Mostramos todos los amigos en la lista
-    amigos.forEach(amigo => {
-        const li = document.createElement('li');  // Creamos un nuevo elemento de lista
-        li.textContent = amigo;  // Establecemos el nombre como contenido del elemento
-        lista.appendChild(li);  // Añadimos el nuevo elemento a la lista
-    });
+    for (let i = 0; i < amigos.length; i++) {
+        const li = document.createElement('li');  // Creamos un nuevo elemento <li>
+        li.textContent = amigos[i];  // Asignamos el nombre de amigo al contenido del <li>
+        lista.appendChild(li);  // Agregamos el <li> a la lista HTML
+}
 }
