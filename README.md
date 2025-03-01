@@ -4,17 +4,16 @@
 Es un juego de azar en el cual los usuarios ingresan diversos nombres para decidir cual de estos sera el selecionado.
 
 <h3>Funcionalidades</h3>
--Capturar el valor del campo de entrada
--Validar la entrada
--Actualizar el array de amigos
--Limpiar el campo de entrada
--Obtener el elemento de la lista
--Limpiar la lista existente
--Iterar sobre el arreglo
--Agregar elementos a la lista
--Validar que haya amigos disponibles
--Generar un índice aleatorio
--Obtener el nombre sorteado
--Mostrar el resultado
--Limpia luego de un sorteo
-<!-- Failed to upload "Grabación 2025-02-28 221628.mp4" -->
+-Capturar el valor del campo de entrada<br>
+-Validar la entrada<br>
+-Actualizar el array de amigos<br>
+-Limpiar el campo de entrada<br>
+-Obtener el elemento de la lista<br>
+-Limpiar la lista existente<br>
+-Iterar sobre el arreglo<br>
+-Agregar elementos a la lista<br>
+-Validar que haya amigos disponibles<br>
+-Generar un índice aleatorio<br>
+-Obtener el nombre sorteado<br>
+-Mostrar el resultado<br>
+-Limpia luego de un sorteo<br>
